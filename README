@@ -1,0 +1,8 @@
+# cell letters get colored when the player clicks and drags on a letter that is on the board.
+# reset button- a button that reset the game. it creates a new board and reset the timer and score and every
+  other relevant parameter.
+# hint button - a button that shows part of a word that is on the board and the player hasn't guessed.
+		In each game, the player can use NUM_HINT times the hint.
+# flatter - when the player guessed right a word - he gets a flatter that depends on the lens of the word.
+# if the player tries to guess a word that he already guessed, the game returns: 'chosen already (even if
+  it's in another path).
